@@ -17,7 +17,7 @@ Features:
 * Portable with wheels, mass ~30kg so it can be lifted up stairs
 * Monitoring displays for Battery, AC Output, AC Input and Solar input. (Battery monitor here: https://github.com/vagueDirector/ArduinoXiaoxiangSmartBMSDisplay)
 
-Design planning in Fusion360: 
+3D Model in Fusion360: 
 <img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/fusion1.JPG">
 System electrical diagram:
 <img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/schema1.JPG">
