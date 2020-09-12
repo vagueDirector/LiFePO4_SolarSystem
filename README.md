@@ -15,7 +15,11 @@ Features:
 * Coulomb counting state of charge meter
 * Active cell balancing module
 * Portable with wheels, mass ~30kg so it can be lifted up stairs
-* Monitoring displays for Battery, AC Output, AC Input and Solar input. (Battery monitor here: https://github.com/vagueDirector/ArduinoXiaoxiangSmartBMSDisplay)
+* Monitoring displays for Battery, AC Output, AC Input and Solar input. 
+
+Related resources: 
+* Cell terminal covers / shrouds: https://www.thingiverse.com/thing:4567648
+* Battery management system display: https://github.com/vagueDirector/ArduinoXiaoxiangSmartBMSDisplay
 
 3D Model in Fusion360: 
 <img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/fusion1.JPG">
