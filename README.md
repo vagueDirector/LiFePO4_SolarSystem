@@ -19,4 +19,16 @@ Features:
 
 Photos:
 
-<img src="https://raw.githubusercontent.com/vagueDirector/ArduinoXiaoxiangSmartBMSDisplay/master/Photos/20200723_154711.jpg">
+<img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/schema1.JPG">
+<img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200912_141238.jpg">
+<img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200912_141254.jpg">
+<img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200912_141341_HDR.jpg">
+<img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200912_141410.jpg">
+<img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200912_141421.jpg">
+<img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200912_141442_HDR.jpg">
+<img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200819_163244_HDR.jpg">
+<img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200819_163305.jpg">
+<img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200825-133246-edit.jpg">
+<img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200825-133709-edit.jpg">
+<img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200825-143747-edit.jpg">
+
