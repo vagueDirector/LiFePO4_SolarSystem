@@ -13,6 +13,5 @@ Features:
 * Coulomb counting state of charge meter
 * Active cell balancing module
 * Portable with wheels, mass ~30kg so it can be lifted up stairs
-* Monitoring displays for Battery, AC Output, AC Input and Solar input. 
-* Enhanced surge/lightning protecion with MOVs to earth on solar input and AC output. 
+* Monitoring displays for Battery, AC Output, AC Input and Solar input. (Battery monitor here: https://github.com/vagueDirector/ArduinoXiaoxiangSmartBMSDisplay)
 
