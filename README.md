@@ -17,18 +17,25 @@ Features:
 * Portable with wheels, mass ~30kg so it can be lifted up stairs
 * Monitoring displays for Battery, AC Output, AC Input and Solar input. (Battery monitor here: https://github.com/vagueDirector/ArduinoXiaoxiangSmartBMSDisplay)
 
-Photos:
-
+System electrical diagram:
 <img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/schema1.JPG">
+Ac Inputs & Outputs:
 <img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200912_141238.jpg">
+Monitoring displays:
 <img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200912_141254.jpg">
+DC Inputs & Outputs:
 <img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200912_141341_HDR.jpg">
+Inside:
 <img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200912_141410.jpg">
 <img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200912_141421.jpg">
 <img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200912_141442_HDR.jpg">
+The cells on the bench:
 <img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200819_163244_HDR.jpg">
+3D Printing cell holders / shrouds:
 <img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200819_163305.jpg">
+Thermal images when under 800W Inverter load:
 <img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200825-133246-edit.jpg">
 <img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200825-133709-edit.jpg">
+Thermal images when AC input is at maximum (400W):
 <img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200825-143747-edit.jpg">
 
