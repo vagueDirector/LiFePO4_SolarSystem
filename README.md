@@ -16,6 +16,8 @@ Features:
 * Active cell balancing module
 * Portable with wheels, mass ~30kg so it can be lifted up stairs
 * Monitoring displays for Battery, AC Output, AC Input and Solar input. 
+* Battery is lightly compressed using ETFE sheets between the cells. 
+* Threaded rods redistribute much of the battery weight to the case walls, also greatly improving rigidity of the battery and case.
 
 Related resources: 
 * Cell terminal covers / shrouds: https://www.thingiverse.com/thing:4567648
