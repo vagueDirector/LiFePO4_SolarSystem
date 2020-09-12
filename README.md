@@ -19,7 +19,7 @@ Features:
 
 System electrical diagram:
 <img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/schema1.JPG">
-Ac Inputs & Outputs:
+AC Inputs & Outputs:
 <img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200912_141238.jpg">
 Monitoring displays:
 <img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200912_141254.jpg">
