@@ -18,6 +18,7 @@ Features:
 * Monitoring displays for Battery, AC Output, AC Input and Solar input. 
 * Battery is lightly compressed using additional ETFE sheets between the cells. 
 * Threaded rods redistribute much of the battery weight to the case walls, also greatly improving rigidity of the battery and case.
+* Over/under temperature protection for the battery.
 
 Related resources: 
 * Cell terminal covers / shrouds: https://www.thingiverse.com/thing:4567648
