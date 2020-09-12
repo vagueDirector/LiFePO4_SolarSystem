@@ -6,7 +6,7 @@ The aim of developing this was to make an ultimate system to power my electronic
 <img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200912_141225.jpg">
 
 Features: 
-* Battery: LiFePO4 4S2P 12.8V 2.3kWh
+* Battery: LiFePO4 4S2P 12.8V 2.3kWh (using 90Ah cells)
 * AC Input: 240V 400W
 * Solar Input: 100V 400W
 * AC Output: 240V 1000W
