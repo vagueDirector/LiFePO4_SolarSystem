@@ -39,9 +39,8 @@ The cells on the bench:
 <img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200819_163244_HDR.jpg">
 3D Printing cell holders / shrouds:
 <img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200819_163305.jpg">
-Thermal images when under 800W Inverter load:
-<img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200825-133246-edit.jpg">
+Thermal image when under 800W Inverter load:
 <img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200825-133709-edit.jpg">
-Thermal images when AC input is at maximum (400W):
+Thermal image when AC input is at maximum (400W):
 <img src="https://github.com/vagueDirector/LiFePO4_SolarSystem/blob/master/20200825-143747-edit.jpg">
 
