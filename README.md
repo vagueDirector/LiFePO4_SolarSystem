@@ -11,7 +11,7 @@ Features:
 * Solar Input: 100V 400W
 * AC Output: 240V 1000W
 * DC Output: 12V10A Cigarette Port x2, USB 5V2.1A x2, USB QC3.0 x1, USB Type C PD3.0 18W x1
-* Temperature controlled, always running silent fan 
+* Temperature controlled, always running silent fan with dust filtered air intakes
 * Coulomb counting state of charge meter
 * Active cell balancing module
 * Portable with wheels, mass ~30kg so it can be lifted up stairs
